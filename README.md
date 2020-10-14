@@ -3,7 +3,7 @@ The DiAGRAM (Digital Archiving Graphical Risk Assessment Model) decision support
 
 For more details about the project [see the main project webpage on The National Archives' website](https://nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/research-collaboration/safeguarding-the-nations-digital-memory/).
 
-#Licence
+## Licence
 
 Warwick DiAGRAM © 2020, The University of Warwick (the "Software") 
  
